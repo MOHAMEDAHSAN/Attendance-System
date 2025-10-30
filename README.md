@@ -68,6 +68,17 @@ You can find this file in the [OpenCV GitHub repository](https://github.com/open
 
 <img width="1402" height="507" alt="image" src="https://github.com/user-attachments/assets/16ddabee-623c-4494-9754-e8d2216caebe" />
 
+## Screenshots: 
+
+<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/b1466e85-8793-472d-a65b-f45ab0c8b58c" />
+
+<img width="1888" height="810" alt="image" src="https://github.com/user-attachments/assets/19541dfc-2e41-423a-b2d9-c359678fc2f3" />
+
+<img width="1616" height="746" alt="image" src="https://github.com/user-attachments/assets/218b1931-2ae5-4c86-875a-3a4db0213413" />
+
+<img width="1820" height="811" alt="image" src="https://github.com/user-attachments/assets/f75195c2-06dd-4e5f-9c9e-b93c7d6d152d" />
+
+<img width="865" height="638" alt="image" src="https://github.com/user-attachments/assets/ac6bb706-648d-4628-83d3-a2b84a5a4fd8" />
 
 
 ## 🧑‍💻 Author
