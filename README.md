@@ -1,4 +1,4 @@
-<img width="1402" height="507" alt="image" src="https://github.com/user-attachments/assets/c46adc54-9611-4d77-b8e5-72e39f6b247c" /># Face Recognition Based Attendance System
+# Face Recognition Based Attendance System
 
 This is a Python-based application that uses OpenCV and Tkinter to create a complete system for registering users, training a face recognizer, and marking attendance automatically.
 
