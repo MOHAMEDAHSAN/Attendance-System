@@ -86,26 +86,13 @@ You can find this file in the [OpenCV GitHub repository](https://github.com/open
 ---
 
 ## 🖼️ Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/684b7b97-fcb5-4398-ba68-4532f26c608e" />
 
-<p align="center">
-  <img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/b1466e85-8793-472d-a65b-f45ab0c8b58c" />
-</p>
+<img width="281" height="665" alt="image" src="https://github.com/user-attachments/assets/b47d4502-68ce-4866-a016-899fe6128147" />
 
-<p align="center">
-  <img width="1888" height="810" alt="image" src="https://github.com/user-attachments/assets/19541dfc-2e41-423a-b2d9-c359678fc2f3" />
-</p>
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 142048" src="https://github.com/user-attachments/assets/e573e89c-78e1-4b01-bfff-2cbe74fec3e4" />
 
-<p align="center">
-  <img width="1616" height="746" alt="image" src="https://github.com/user-attachments/assets/218b1931-2ae5-4c86-875a-3a4db0213413" />
-</p>
-
-<p align="center">
-  <img width="1820" height="811" alt="image" src="https://github.com/user-attachments/assets/f75195c2-06dd-4e5f-9c9e-b93c7d6d152d" />
-</p>
-
-<p align="center">
-  <img width="865" height="638" alt="image" src="https://github.com/user-attachments/assets/ac6bb706-648d-4628-83d3-a2b84a5a4fd8" />
-</p>
+<img width="441" height="199" alt="Screenshot 2025-10-30 142744" src="https://github.com/user-attachments/assets/ee9b140b-adca-4039-ba7b-0a75b4334438" />
 
 ---
 
@@ -114,4 +101,5 @@ You can find this file in the [OpenCV GitHub repository](https://github.com/open
 * **Name:** S Mohamed Ahsan
 * **Register Number:** 212223240089
 * **Department:** AIML
+
 
